@@ -3,13 +3,20 @@
 
 A python translator program
 
-### To run the program install these modules:
+## Installation 
+To run the program you need to install these modules:
 1. Tkinter
-` pip install tk `
+``` 
+pip install tk 
+```
 
 2. googletrans
-` pip install googletrans `
+``` 
+pip install googletrans 
+```
 
 3. textblob
-` pip install textblob `
+``` 
+pip install textblob 
+```
 
